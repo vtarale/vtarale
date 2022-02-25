@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vtarale
 - 👀 I’m interested in ...Physics
-- 🌱 I’m currently learning ...c and python
+- 🌱 I’m currently learning ...c and python and even qbasics
 
 <!---
 vtarale/vtarale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
